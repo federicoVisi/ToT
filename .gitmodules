@@ -1,0 +1,6 @@
+[submodule "wearpi-py"]
+	path = wearpi-py
+	url = https://github.com/wearablecomputing/wearpi-py
+[submodule "piwear"]
+	path = piwear
+	url = https://github.com/ataut/piwear
