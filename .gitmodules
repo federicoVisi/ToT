@@ -4,3 +4,6 @@
 [submodule "piwear"]
 	path = piwear
 	url = https://github.com/ataut/piwear
+[submodule "bbdmi"]
+	path = bbdmi
+	url = https://gitlab.huma-num.fr/bbdmi/bbdmi.git
