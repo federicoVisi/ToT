@@ -7,3 +7,6 @@
 [submodule "bbdmi"]
 	path = bbdmi
 	url = https://gitlab.huma-num.fr/bbdmi/bbdmi.git
+[submodule "basic-pure-data-audio-effects"]
+	path = basic-pure-data-audio-effects
+	url = https://github.com/federicoVisi/basic-pure-data-audio-effects
