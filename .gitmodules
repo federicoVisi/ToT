@@ -1,12 +1,12 @@
 [submodule "wearpi-py"]
 	path = wearpi-py
 	url = https://github.com/wearablecomputing/wearpi-py
-[submodule "piwear"]
-	path = piwear
-	url = https://github.com/ataut/piwear
 [submodule "bbdmi"]
 	path = bbdmi
 	url = https://gitlab.huma-num.fr/bbdmi/bbdmi.git
 [submodule "basic-pure-data-audio-effects"]
 	path = basic-pure-data-audio-effects
 	url = https://github.com/federicoVisi/basic-pure-data-audio-effects
+[submodule "piwear"]
+	path = piwear
+	url = https://github.com/federicoVisi/piwear
