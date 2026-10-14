@@ -10,3 +10,6 @@
 [submodule "piwear"]
 	path = piwear
 	url = https://github.com/federicoVisi/piwear
+[submodule "deplacement-eramaa"]
+	path = deplacement-eramaa
+	url = https://github.com/federicoVisi/deplacement-eramaa
